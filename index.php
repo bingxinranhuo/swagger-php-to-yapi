@@ -12,6 +12,8 @@ $swaggerToYapi->run();
  */
 class SwaggerToYapi
 {
+    /*==== 必须正确填写的配置 ===*/
+    ###############################START#######################################
     const LOG_PATH = '/home/work/logs/swagger-php/logs/';//日志路径
     const PROJECT_PATH = '/home/luojianglai/www/swagger-php/projects/';//项目仓库路径
     const YAPI_DOMAIN = 'http://127.0.0.1';//yapi域名
@@ -21,6 +23,8 @@ class SwaggerToYapi
     const PROJECT_LIST = [
         'projectName' => ['token' => '2c1cc61593f66101e13f', 'path' => self::PROJECT_PATH . 'projectName/home/controllers'],
     ];
+    ################################END#########################################
+
 
     private $project;
     private $projectPath;
