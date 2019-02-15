@@ -10,7 +10,7 @@ composer require zircote/swagger-php
 
 ## 使用
 
-php 7.0+
+php 7.0+  
 运行 index.php  
 
 
