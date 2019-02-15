@@ -9,9 +9,10 @@ composer require zircote/swagger-php
 ```
 
 ## 使用
-运行 index.php  
 
 php 7.0+
+运行 index.php  
+
 
 ## 说明
 ### !! 需正确填写配置项 !! 参考代码注释
