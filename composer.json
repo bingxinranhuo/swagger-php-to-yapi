@@ -1,0 +1,14 @@
+{
+  "name": "swagger",
+  "description": "文档",
+  "authors": [
+  {
+    "name": "fman",
+    "email": "fman@qq.com"
+  }
+  ],
+  "require": {
+    "php": "^7.0",
+    "zircote/swagger-php": "^3.0"
+  }
+}
