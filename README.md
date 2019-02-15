@@ -14,7 +14,7 @@ composer require zircote/swagger-php
 php 7.0+
 
 ## 说明
-需正确填写配置项,参考代码注释
+### !! 需正确填写配置项 !! 参考代码注释
 ```
 class SwaggerToYapi
 {
